@@ -1,4 +1,4 @@
-name: 恢复vless服务并发送Telegram消息-serv00-script-1
+name: 恢复vless服务并发送Telegram消息
 
 on:
   schedule:
